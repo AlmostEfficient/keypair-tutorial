@@ -12,10 +12,6 @@ Looks like this:
 cabbage together debris chalk hammer novel wire tunnel rubber labor retire prefer
 ```
 
-To use custom derivation paths: 
-https://github.com/ebellocchia/bip_utils/blob/master/examples/bip32_kholaw_ed25519.py
-https://github.com/ebellocchia/bip_utils/blob/master/examples/bip32_slip10_ed25519.py
-
 #### Byte Array
 - A raw binary representation of a key in the form of a list of byte values.
 - The most direct and unencoded form of key data.
