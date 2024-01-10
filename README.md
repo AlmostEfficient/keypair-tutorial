@@ -25,6 +25,7 @@ cabbage together debris chalk hammer novel wire tunnel rubber labor retire prefe
 - A text representation of the key using Base58 encoding.
 - No confusing characters, so it's less error-prone when you copy-paste.
 - Commonly used in wallets - when you export your "Private key", you get a Base58 string.
+- No delimiter characters, so it can be copied with a double-click.
 
 ```
 5yYeHuwyyy4qAqJtvkkA2SDsujQorZD8SvJ3v6YevYEpaVtq5M2vSpSr3Ts8Mzm2gAwKtPqvozpxLejUxgkbpa5a
